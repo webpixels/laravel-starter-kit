@@ -1,1 +1,1 @@
-require('bootstrap');
+var bootstrap = require('bootstrap');
