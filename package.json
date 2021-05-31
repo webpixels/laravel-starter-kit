@@ -1,5 +1,18 @@
 {
+    "name": "laravel-starter-kit",
+    "version": "1.0.0",
     "private": true,
+    "description": "Demo project for building Laravel and Bootstrap powered sites using Webpixels Components.",
+    "author": "webpixels",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/webpixels/laravel-starter-kit.git"
+    },
+    "bugs": {
+        "url": "https://github.com/webpixels/laravel-starter-kit/issues"
+    },
+    "homepage": "https://github.com/webpixels/laravel-starter-kit#readme",
     "scripts": {
         "dev": "npm run development",
         "development": "mix",
